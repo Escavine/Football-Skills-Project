@@ -18,12 +18,12 @@ This is a simple Python program that collects information about soccer players, 
 
 ## Usage
 
-1. Run the program: `python player_info_system.py`.
+1. Run the program: `football_skills.ipynb`.
 2. Enter details for each player as prompted.
 3. The program will calculate ratings and salaries and display a table with the player information.
 4. The table is also saved to `players.txt`.
 
 ## File Structure
 
-- `player_info_system.py`: Main Python script.
+- `football_skills.ipynb`: Main Python script.
 - `players.txt`: File to store player information.
